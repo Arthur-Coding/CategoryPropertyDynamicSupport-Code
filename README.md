@@ -1,2 +1,3 @@
 # CategoryPropertyDynamicSupport
 Category Property Dynamic Support 
+类别属性自动生成setter与getter方法工具
